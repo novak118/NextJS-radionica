@@ -1,0 +1,30 @@
+.container {
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  padding: 0 2rem;
+}
+.text{
+  text-align: center;
+  padding: 40px;
+  border-radius: 10px;
+  background-color: rgb(43, 64, 146);
+  color: white;
+}
+.forma{
+  background-color: transparent;
+  margin: 10px ;
+  border: 2px solid rgb(110, 98, 214);
+  border-radius: 5px;
+  color: white;
+}
+.button{
+  background-color: #6e4093;
+  border: 1px solid #ffe999;
+  color: white;
+  border-radius: 5px;
+  height: 30px;
+  cursor: pointer;
+}
