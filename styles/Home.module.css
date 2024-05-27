@@ -28,3 +28,33 @@
   height: 30px;
   cursor: pointer;
 }
+.homepage{
+  padding: 40px;
+  border-radius: 10px;
+  background-color: rgb(43, 64, 146);
+  color: white;
+  margin: 100px;
+}
+.box{
+  text-align: left;
+  list-style-type: none;
+  text-decoration: underline 2px;
+  padding: 40px;
+  border-radius: 10px;
+  background-color: rgb(43, 64, 146);
+  color: white;
+  margin: 100px;
+}
+.code{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.backButton{
+  color: white;
+  cursor: pointer;
+  background-color: transparent;
+  border: 2px solid black;
+  border-radius: 10px;
+  padding: 10px;
+}
